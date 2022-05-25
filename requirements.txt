@@ -11,7 +11,7 @@ Jinja2==2.10.3
 MarkupSafe==1.1.1
 pathspec==0.6.0
 pycodestyle==2.5.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyodbc==4.0.27
 regex==2019.12.20
 six==1.13.0
